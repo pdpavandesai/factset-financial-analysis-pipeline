@@ -1,0 +1,27 @@
+# .gitignore
+
+# Rider / VS Code
+.idea/
+
+### Python ###
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+
+### VisualStudio ###
+*.sln.docstates
+*.suo
+*.user
+*.pdb
+*.tmp
+*.vs/
+/bin
+/obj
+/Properties/launchSettings.json
+/packages
+
+# Operating System Files
+.DS_Store
+Thumbs.db
