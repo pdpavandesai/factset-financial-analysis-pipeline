@@ -1,2 +1,2 @@
 # Project: factset-financial-analysis-pipeline
-Description: Data pipeline that scrapes news, processes sentiment via Python on AWS Lambda, and serves results from a .NET 8 API and PostgreSQL database.
+To build an automated pipeline that scrapes daily price data for key global commodities (like Crude Oil and Gold), processes and stores this data, and makes it available via an API.
